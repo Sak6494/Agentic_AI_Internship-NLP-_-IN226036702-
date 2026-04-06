@@ -1,7 +1,5 @@
 
-Absolutely! Here's a **clean, ready-to-paste README block** for GitHub, focusing purely on the project overview, purpose, and workflow — no code included:
 
----
 
 # **BERT for POS Tagging and Chunking**
 
